@@ -1,0 +1,8 @@
+{
+  "name": "Remix: EA - Electrical Installation and Services",
+  "description": "Professional Electrical Solutions You Can Trust. Offering standard electrical services, power \u0026 safety systems, maintenance \u0026 troubleshooting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
